@@ -1,0 +1,14 @@
+.filter {
+    height: 30px;
+    width: 100%;
+    background-color: lightgray;
+    padding-top: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+label {
+    padding-left: 5px;
+    padding-right: 5px;
+}
